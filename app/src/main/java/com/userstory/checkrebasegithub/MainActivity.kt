@@ -14,5 +14,7 @@ class MainActivity : AppCompatActivity() {
         Log.e("TAG1", (x + y).toString())
 
         val z = x + y
+
+        Log.e("TAG1", z.toString())
     }
 }
